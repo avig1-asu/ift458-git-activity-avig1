@@ -1,0 +1,24 @@
+{
+  "name": "module5-lab1",
+  "version": "1.0.0",
+  "description": "This repository is being used to practice basic Git operations with Visual Studio Code.",
+  "main": "loggerMiddleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avig1-asu/ift458-git-activity-avig1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avig1-asu/ift458-git-activity-avig1/issues"
+  },
+  "homepage": "https://github.com/avig1-asu/ift458-git-activity-avig1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
